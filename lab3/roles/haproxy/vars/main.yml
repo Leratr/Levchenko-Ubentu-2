@@ -1,3 +1,0 @@
----
-# vars file for haproxy
-nginx_port: 8080
