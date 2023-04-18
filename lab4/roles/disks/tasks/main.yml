@@ -21,7 +21,7 @@
     vg: pg
     lv: pg_wal
     size: 100%PVS
-    pvs: /dev/sdcansible-galaxy collection install community.general
+    pvs: /dev/sdc
   tags:
     - disks
 
