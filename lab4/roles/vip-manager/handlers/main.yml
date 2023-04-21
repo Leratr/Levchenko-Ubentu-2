@@ -1,7 +1,0 @@
----
-# handlers file for roles/vip-manager
-- name: restart vip-manager
-  systemd:
-    name: vip-manager
-    state: restarted
-    enabled: yes
